@@ -1,0 +1,34 @@
+title: "Arturo // Hacker Mode"
+description: "Sitio web del Programador del Futuro — código, proyectos y experimentos"
+theme: jekyll-theme-hacker
+
+show_downloads: false
+google_analytics: ""
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: /:title/
+
+author:
+  name: "Arturo Miyagi"
+  tagline: "Aprendiz eterno — código, IA y hacking ético"
+
+hacker:
+  ascii_banner: |
+    ██████╗ ██╗   ██╗███████╗██████╗ 
+    ██╔══██╗██║   ██║██╔════╝██╔══██╗
+    ██████╔╝██║   ██║█████╗  ██████╔╝
+    ██╔══██╗██║   ██║██╔══╝  ██╔══██╗
+    ██████╔╝╚██████╔╝███████╗██║  ██║
+    ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝
+
+nav:
+  - name: "Inicio"
+    link: /
+  - name: "Proyectos"
+    link: /proyectos
+  - name: "Cursos"
+    link: /cursos
+  - name: "Contacto"
+    link: /contacto
