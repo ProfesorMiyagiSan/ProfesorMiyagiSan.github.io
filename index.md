@@ -21,26 +21,33 @@ Este sitio está construido con **GitHub Pages + Jekyll**, usando el tema **Hack
 ---
 
 ## 💻 Proyectos
+- **Pensamiento computacional**
+- **PSeInt**
+- **Visual Studio Code**
 - **Python Essentials** — Scripts, trucos y automatizaciones.  
-- **Web Hacking Ético** — Pruebas de seguridad y buenas prácticas.  
-- **IA & Machine Learning** — Experimentos con modelos y datos.
-
+-**Ciencia de datos** - Fundamentos y prácticas en pyhon+vscode
 ---
 
 ## 📚 Cursos y notas
 Aquí iré publicando mis apuntes y tutoriales:
 
-- Introducción a Python  
+- Pensamiento computacional
+- PSeInt
 - Git y GitHub para principiantes  
-- HTML + CSS desde cero  
-- Fundamentos de Jekyll
+- Visual Studio Code
+- Introducción a Python
+- Preparación para Ciencia de Datos:
+- Estadística básica: fundamentos y prácticas VSCode+Python
+- Matemáticas básicas para ciencia de datos
+- Ciencia de datos - fundamentos teóricos y prácticas con VSCode+Python
+- 
 
 ---
 
 ## 📡 Contacto
 Si quieres colaborar, aprender o compartir ideas:
 
-**Email:** arturo@example.com  
+**Email:** alinaresval@gmail.com  
 **GitHub:** [ProfesorMiyagiSan](https://github.com/ProfesorMiyagiSan)
 
 ---
